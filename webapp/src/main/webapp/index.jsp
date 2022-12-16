@@ -16,6 +16,11 @@
                 <label for="Name"><b>Enter First Name</b></label>
                 <input type="text" placeholder="Enter First Name" name="fname" id="fname" required>
                 <br><br>
+
+
+		<label for="Name"><b>Enter Middle Name</b></label>
+                <input type="text" placeholder="Enter Middle Name" name="fname" id="fname" required>
+                <br><br>
 				<label for="Name"><b>Enter Last Name</b></label>
                 <input type="text" placeholder="Enter Last Name" name="lname" id="lname" required>
                 <br><br>
