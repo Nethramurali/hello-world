@@ -6,7 +6,7 @@
                         fname=document.getElementById("fname").value
                         lname=document.getElementById("lname").value
                         mname=document.getElementById("mname").value
-                        document.getElementById("fullname").innerHTML = "Full name is "+fname+" "mname+" "+lname;
+                        document.getElementById("fullname").innerHTML = "Full name is "+fname+" "+mname+" "+lname;
                 }
         </script>
         </head>
