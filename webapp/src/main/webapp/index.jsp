@@ -5,7 +5,8 @@
                 function printFullname(){
                         fname=document.getElementById("fname").value
                         lname=document.getElementById("lname").value
-                        document.getElementById("fullname").innerHTML = "Full name is "+fname+" "+lname;
+                        mname=document.getElementById("mname").value
+                        document.getElementById("fullname").innerHTML = "Full name is "+fname+" "mname+" "+lname;
                 }
         </script>
         </head>
@@ -19,7 +20,7 @@
 
 
 		<label for="Name"><b>Enter Middle Name</b></label>
-                <input type="text" placeholder="Enter Middle Name" name="fname" id="fname" required>
+                <input type="text" placeholder="Enter Middle Name" name="mname" id="mname" required>
                 <br><br>
 				<label for="Name"><b>Enter Last Name</b></label>
                 <input type="text" placeholder="Enter Last Name" name="lname" id="lname" required>
