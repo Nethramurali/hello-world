@@ -29,7 +29,7 @@
                 <button onclick="printFullname()" id="mybutton">print</button>
 				
 				
-				 <h1> Thankyou ALL, Happy Learning  </h1>
+				 <h1> Thank you !!!  </h1>
         </body>
 </html>
 
