@@ -52,7 +52,7 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-    <p><h1>Logo</h1></p>
+    <p><h1>HPE</h1></p>
   </div>
   <div class="middle">
  <!--   <h1>COMING SOON</h1> -->
