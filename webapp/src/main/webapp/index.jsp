@@ -52,7 +52,7 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-    <p><h1>HPE</h1></p>
+    <p><h1>LOGO</h1></p>
   </div>
   <div class="middle">
  <!--   <h1>COMING SOON</h1> -->
@@ -95,7 +95,7 @@ var x = setInterval(function() {
     <p><h2>some text</h2></p>
   </div>
   <div class="bottomright">
-    <p><h2>By Nethravathi .S  </h2></p>
+    <p><h2>Presenter  </h2></p>
   </div>
 </div>
 
