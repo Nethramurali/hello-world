@@ -92,7 +92,7 @@ var x = setInterval(function() {
 </script>
   </div>
   <div class="bottomleft">
-    <p><h2> Hello  </h2></p>
+    <p><h2> ALL is well </h2></p>
   </div>
   <div class="bottomright">
     <p><h2> Presented by Nethra  </h2></p>
