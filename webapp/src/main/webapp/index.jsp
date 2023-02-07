@@ -52,7 +52,8 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-    <p><h1> HPE </h1></p>
+    <p><h1>Logo</h1></p>
+  </div>
   <div class="middle">
  <!--   <h1>COMING SOON</h1> -->
     <hr>
@@ -61,7 +62,7 @@ hr {
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 1 , 2023 00:00:00").getTime();
+var countDownDate = new Date("Jan 1, 2023 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -91,10 +92,13 @@ var x = setInterval(function() {
 </script>
   </div>
   <div class="bottomleft">
-    <p><h2>Thanking you ALL !! </h2></p>
+    <p><h2>Thank you!</h2></p>
   </div>
   <div class="bottomright">
-    <p><h2> By Nethravathi S  </h2></p>
+    <p><h2>Presenter</h2></p>
+  </div>
+</div>
 
 </body>
 </html>
+
