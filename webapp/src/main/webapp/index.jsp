@@ -52,7 +52,11 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
+<<<<<<< HEAD
     <p><h1> HPE </h1></p>
+=======
+    <p><h1> hpe </h1></p>
+>>>>>>> bc2121fde38bce4242a604ac61d33ce8f629220a
   </div>
   <div class="middle">
  <!--   <h1>COMING SOON</h1> -->
@@ -92,10 +96,17 @@ var x = setInterval(function() {
 </script>
   </div>
   <div class="bottomleft">
+<<<<<<< HEAD
     <p><h2>Thanking you ALL !! </h2></p>
   </div>
   <div class="bottomright">
     <p><h2> By Nethravathi S  </h2></p>
+=======
+    <p><h2> All is well </h2></p>
+  </div>
+  <div class="bottomright">
+    <p><h2> Presented by Nethra  </h2></p>
+>>>>>>> bc2121fde38bce4242a604ac61d33ce8f629220a
   </div>
 </div>
 
