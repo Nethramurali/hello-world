@@ -95,10 +95,6 @@ var x = setInterval(function() {
   </div>
   <div class="bottomright">
     <p><h2> By Nethravathi S  </h2></p>
-=======
-    <p><h2> All is well </h2></p>
-  </div>
-  <div class="bottomright">
 
 </body>
 </html>
